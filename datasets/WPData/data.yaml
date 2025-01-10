@@ -1,0 +1,6 @@
+train: D:\Water_Pollution_Detection\datasets\WPData\train
+val: D:\Water_Pollution_Detection\datasets\WPData\val
+test: D:\Water_Pollution_Detection\datasets\WPData\test
+
+nc: 20
+names: ['waste','water pollution','boat','stone','sludge','shadow','illumination','others','bridge','fishing net','oil film','green alga','sewage','water plants','sediment','ship','moss','ferry','raft','duckweed']

@@ -1,0 +1,18 @@
+
+QGroupBox {
+    border: 4px solid gray;
+    }
+
+QPushButton#SaveBtn{
+            color:black;
+            background-color:white;
+            border-radius:5px
+            }
+QPushButton#WarnBtn{color:black;
+            background-color:white;
+            border-radius:5px}
+QPushButton:hover{color:red}
+QPushButton:pressed{background-color:white;border: None;}
+
+
+#MainWindow{border-image:url(Interface_Program/interface_image/bg22.png)}
